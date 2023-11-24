@@ -1,1 +1,0 @@
-Some practice with using git
